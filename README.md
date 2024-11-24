@@ -34,8 +34,9 @@ I'm a Computer Science student passionate about exploring and creating in the wo
 
 ## 📊 GitHub Stats
 <div align="center" style="display: inline-block; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="200" />
-  <img src="https://streak-stats.demolab.com?user=timtulang&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="200" /> <img src="https://streak-stats.demolab.com?user=timtulang&theme=tokyonight&hide_border=true&border_radius=10" height="200" />
+  </div>
 </div>
 
 ## 🤝 Let's Connect!
