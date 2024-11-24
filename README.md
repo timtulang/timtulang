@@ -33,10 +33,11 @@ I'm a Computer Science student passionate about exploring and creating in the wo
 🎨 Graphic Design: Exploring creative visuals for web and app interfaces.
 
 ## 📊 GitHub Stats
-<div align="center" style="display: inline-block; text-align: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="150"/> 
   <img src="https://streak-stats.demolab.com?user=timtulang&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtulang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
 ## 🤝 Let's Connect!
 <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="20" height="20" /> Email: tulangtimothy@gmail.com
