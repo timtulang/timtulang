@@ -35,7 +35,7 @@ I'm a Computer Science student passionate about exploring and creating in the wo
 ## 📊 GitHub Stats
 <div align="center" style="display: inline-block; text-align: center;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="400"/> <img src="https://streak-stats.demolab.com?user=timtulang&theme=tokyonight&hide_border=true&border_radius=10" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="175"/> <img src="https://streak-stats.demolab.com?user=timtulang&theme=tokyonight&hide_border=true&border_radius=10" width="175"/>
   </div>
 </div>
 
