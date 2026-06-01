@@ -9,7 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/-tim--tulang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-tulang-211a26293/)
 
 </div>
+
 ---
+
+
 ### `>` Languages
 
 ![Java](https://img.shields.io/badge/Java-FF6600?style=flat-square&logo=openjdk&logoColor=white)
