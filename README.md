@@ -60,21 +60,6 @@
 
 ---
 
-### Active Operations
-
-| Operation | Stack | Status |
-|-----------|-------|--------|
-| Barangay Document Request & Records System | React · Vite · Supabase · Dialogflow · Vercel | `DEPLOYED` |
-| React App w/ Browser ML Inference | React · Python · TensorFlow · ONNX/TF.js | `SHIPPED` |
-| InnOlympics 2025 Hackathon — Mobile App | FlutterFlow · Supabase · PostgreSQL | `BEST WORKING APP` |
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&hide_border=true&border_radius=8&title_color=FF6600&icon_color=FF6600&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtulang&layout=compact&hide_border=true&border_radius=8&title_color=FF6600&bg_color=00000000" height="150"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=timtulang&color=FF6600&line=FF4400&point=FF3300&area=true&hide_border=true&bg_color=00000000" width="95%"/>
 </div>
