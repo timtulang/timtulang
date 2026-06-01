@@ -9,18 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-tim--tulang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-tulang-211a26293/)
 
 </div>
-
 ---
-
-```
-  MELCHIOR-1  [ SCIENTIST ]  Does it work?         ██  APPROVED
-  BALTHASAR-2 [ MOTHER    ]  Does it feel right?   ██  APPROVED
-  CASPAR-3    [ WOMAN     ]  Does it matter?        ██  APPROVED
-                      UNANIMOUS. PROCEEDING.
-```
-
----
-
 ### `>` Languages
 
 ![Java](https://img.shields.io/badge/Java-FF6600?style=flat-square&logo=openjdk&logoColor=white)
