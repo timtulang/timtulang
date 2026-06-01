@@ -9,9 +9,9 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-FF6600?style=for-the-badge&labelColor=0d0d0d)
-![Clearance](https://img.shields.io/badge/CLEARANCE-PILOT_CLASS_3-FF3333?style=for-the-badge&labelColor=0d0d0d)
-![Base](https://img.shields.io/badge/BASE-MANILA,_PH-orange?style=for-the-badge&labelColor=0d0d0d)
-![Year](https://img.shields.io/badge/YEAR-3RD_YEAR_CS-CC4400?style=for-the-badge&labelColor=0d0d0d)
+![Clearance](https://img.shields.io/badge/GWA-1.23_TOP_PERFORMER-FF3333?style=for-the-badge&labelColor=0d0d0d)
+![Base](https://img.shields.io/badge/BASE-PLM,_MANILA-orange?style=for-the-badge&labelColor=0d0d0d)
+![Year](https://img.shields.io/badge/YEAR-3RD_YEAR_BSCS-CC4400?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
@@ -40,8 +40,9 @@
 > *"I mustn't run away."*
 > &nbsp;— but I will keep building.
 
-CS student. Web developer. Game developer. Graphic designer.
-I turn fragmented ideas into functioning systems — whether that's a UI someone actually wants to use, a game loop that *feels* right, or a visual that says more than the words around it.
+Third-year BS Computer Science student at **Pamantasan ng Lungsod ng Maynila** — GWA 1.23, consistently among the top performers in the program.
+
+I build full-stack web and mobile applications that actually ship. RESTful APIs, relational databases, real-time chatbots, browser-based ML inference — I close the loop from schema design to production deployment. Currently leading the AI/ML subcommittee at Google Developers Guild On Campus – PLM.
 
 Not running away from hard problems. Just building through them.
 
@@ -54,35 +55,43 @@ Not running away from hard problems. Just building through them.
 ### `> CORE LANGUAGES`
 
 ![Java](https://img.shields.io/badge/Java-FF6600?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-FF4400?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4400?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-CC3300?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF8800?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF5500?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF8800?style=flat-square&logo=postgresql&logoColor=white)
 
 ### `> PROGRESSIVE KNIFE — FRONTEND`
 
 ![React](https://img.shields.io/badge/React-FF6600?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF4400?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-CC3300?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FF5500?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF3300?style=flat-square&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-FF4400?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-CC3300?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF5500?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF3300?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF8800?style=flat-square&logo=figma&logoColor=white)
 
-### `> POSITRON RIFLE — BACKEND`
+### `> POSITRON RIFLE — BACKEND & DATABASE`
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF6600?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF4400?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC3300?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_(PostgreSQL)-FF6600?style=flat-square&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF4400?style=flat-square&logo=fastapi&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-CC3300?style=flat-square&logo=dialogflow&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FF5500?style=flat-square&logo=vercel&logoColor=white)
 
-### `> ENTRY PLUG — CREATIVE SYSTEMS`
+### `> AT-FIELD — AI & DATA SCIENCE`
 
-![Unity](https://img.shields.io/badge/Unity_(C%23)-FF5500?style=flat-square&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-FF4400?style=flat-square&logo=androidstudio&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-CC3300?style=flat-square&logo=adobephotoshop&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6600?style=flat-square&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-FF4400?style=flat-square&logo=onnx&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-CC3300?style=flat-square&logo=jupyter&logoColor=white)
+
+### `> ENTRY PLUG — MOBILE & CREATIVE`
+
+![Android SDK](https://img.shields.io/badge/Android_SDK-FF6600?style=flat-square&logo=android&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-FF4400?style=flat-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_(C%23)-CC3300?style=flat-square&logo=unity&logoColor=white)
 
 ### `> UMBILICAL CABLE — INFRASTRUCTURE`
 
 ![Git](https://img.shields.io/badge/Git-FF6600?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-FF4400?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF4400?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CC3300?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
@@ -90,19 +99,51 @@ Not running away from hard problems. Just building through them.
 
 ## `// 03` &nbsp; ACTIVE ANGEL CONTACTS
 
+*Classified operations log. Threat engagement status.*
+
 <div align="center">
 
-| Designation | Classification | Status | Notes |
-|:-----------:|:--------------|:------:|:------|
-| `ANGEL-01` | Web Development | ![](https://img.shields.io/badge/ENGAGED-FF6600?style=flat-square) | Building responsive interfaces |
-| `ANGEL-02` | Game Development | ![](https://img.shields.io/badge/ACTIVE_LOCK-FF3333?style=flat-square) | Unity, C#, design loops |
-| `ANGEL-03` | Graphic Design | ![](https://img.shields.io/badge/PURSUING-FF8800?style=flat-square) | UI/UX, visual systems |
+| Designation | Operation | Status | Field Notes |
+|:-----------:|:----------|:------:|:------------|
+| `ANGEL-01` | Barangay Doc Request & Records System | ![](https://img.shields.io/badge/DEPLOYED-FF6600?style=flat-square) | React · Supabase · Dialogflow · Vercel · Meta API |
+| `ANGEL-02` | React Interactive App w/ Browser ML | ![](https://img.shields.io/badge/NEUTRALIZED-FF3333?style=flat-square) | React · Python · TensorFlow · ONNX/TF.js |
+| `ANGEL-03` | InnOlympics 2025 — Best Working App | ![](https://img.shields.io/badge/VICTORY-FF8800?style=flat-square) | FlutterFlow · Supabase · Hackathon Champion |
 
 </div>
 
 ---
 
-## `// 04` &nbsp; MAGI PERFORMANCE METRICS
+## `// 04` &nbsp; FIELD OPERATIONS LOG
+
+<div align="center">
+
+```
+[ OPERATION: BARANGAY DOCUMENT SYSTEM ]
+  Role    : Core Developer
+  Stack   : React · Vite · Supabase · Dialogflow · Vercel · Meta for Devs
+  Intel   : Full relational DB schema design · Messenger chatbot via webhook
+            Client-side caching layer · Production deployed on Vercel
+  Result  : FULLY OPERATIONAL — accessible by barangay staff and residents
+
+[ OPERATION: BROWSER-BASED ML INFERENCE ]
+  Role    : Lead Developer
+  Stack   : React · Python · TensorFlow · ONNX / TensorFlow.js
+  Intel   : End-to-end ML pipeline · model training → format conversion
+            → real-time frontend inference · 2-person team, on-schedule
+  Result  : NEUTRALIZED — working application delivered
+
+[ OPERATION: INNOLYMPICS 2025 HACKATHON ]
+  Role    : Core Developer
+  Stack   : FlutterFlow · Supabase (PostgreSQL)
+  Intel   : Full DB schema · polished frontend under hackathon time constraints
+  Result  : VICTORY — Best Working App out of all competing entries
+```
+
+</div>
+
+---
+
+## `// 05` &nbsp; MAGI PERFORMANCE METRICS
 
 <div align="center">
 
@@ -118,13 +159,15 @@ Not running away from hard problems. Just building through them.
 
 ---
 
-## `// 05` &nbsp; OPEN COMMUNICATION CHANNEL
+## `// 06` &nbsp; OPEN COMMUNICATION CHANNEL
 
 <div align="center">
 
 *Direct line to pilot established. Transmission ready.*
 
-[![Email](https://img.shields.io/badge/EMAIL-tulangtimothy%40gmail.com-FF6600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:tulangtimothy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-timtulang.me-FF6600?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://www.timtulang.me)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-tulangtimothy%40gmail.com-FF3333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:tulangtimothy@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-tim--tulang-FF4400?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/tim-tulang-211a26293/)
 
