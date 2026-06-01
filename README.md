@@ -1,47 +1,132 @@
-# 👋 Hello, I'm Tim!
-I'm a Computer Science student passionate about exploring and creating in the world of Web Development, Game Development, and Graphic Design. I love turning ideas into solutions and crafting meaningful experiences through code and visuals.
+<!--
+  NERV PERSONNEL FILE — AUTHORIZED ACCESS ONLY
+  CLASSIFICATION: PUBLIC
+-->
 
-## 🔧 Tech Stack & Tools
-<div align="center" style="display: inline-block; text-align: center;">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/TypeScript-%232B7BBE.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-%2320232E.svg?style=flat&logo=android-studio&logoColor=green" alt="Android Studio" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Unity-%232F0E00.svg?style=flat&logo=unity&logoColor=white" alt="Unity" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white" alt="React" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"style= "height:25px;" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/C%23%20Unity-%232F0E00.svg?style=flat&logo=unity&logoColor=white" alt="C# Unity" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Game%20Design-%23000000.svg?style=flat&logo=gamepad&logoColor=white" alt="Game Design" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white" alt="Git" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sql&logoColor=white" alt="SQL" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Figma-%230557F7.svg?style=flat&logo=figma&logoColor=white" alt="Figma" style= "height:25px;"/>
-  <img src="https://img.shields.io/badge/Photoshop-%23B3A5D1.svg?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style= "height:25px;"/>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║          NERV  //  MAGI SYSTEM — PERSONNEL RECORD           ║
+║                   AUTHORIZATION: GRANTED                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-## 🌱 Current Interests & Learning
+---
 
-🌐 Web Development: Building intuitive, responsive web applications.
+<div align="center">
 
-🎮 Game Development: Designing engaging and fun games with Unity.
+**CODENAME:** `TULANG, TIMOTHY`  
+**CLEARANCE:** Pilot Candidate — Class 3  
+**STATUS:** `[ ACTIVE ]` — 3rd Year, Computer Science Division  
+**ASSIGNED BASE:** Manila, Philippines
 
-🎨 Graphic Design: Exploring creative visuals for web and app interfaces.
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="150"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtulang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+---
 
-## 🤝 Let's Connect!
-<img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="20" height="20" /> Email: tulangtimothy@gmail.com
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" /> LinkedIn: https://www.linkedin.com/in/tim-tulang-211a26293/
-<br>
+## // PILOT PROFILE
 
+> *"I mustn't run away."*  
+> — but I will keep building.
 
+CS student. Web developer. Game developer. Graphic designer.  
+I turn fragmented ideas into functioning systems — whether that's a UI someone actually wants to use, a game loop that feels right, or a visual that says more than the words around it.
+
+Not running away from hard problems. Just building through them.
+
+---
+
+## // MAGI SYSTEM — SYNCHRONIZATION REPORT
+
+*Three systems. One directive. Ship it.*
+
+| System | Directive | Verdict |
+|---|---|---|
+| MELCHIOR-1 | *Scientist* — Does it work? | `APPROVED` |
+| BALTHASAR-2 | *Mother* — Does it feel right? | `APPROVED` |
+| CASPAR-3 | *Woman* — Does it matter? | `APPROVED` |
+
+**UNANIMOUS. PROCEEDING.**
+
+---
+
+## // EVANGELION UNIT — TECH LOADOUT
+
+*Equipment assigned to active pilot. Weapons synchronized.*
+
+**> CLOSE COMBAT**
+```
+Java · C · C# · JavaScript · TypeScript
+```
+
+**> PROGRESSIVE KNIFE — FRONTEND**
+```
+React · HTML5 · CSS3 · Bootstrap · Figma
+```
+
+**> POSITRON RIFLE — BACKEND**
+```
+Spring Boot · Node.js · SQL
+```
+
+**> ENTRY PLUG — CREATIVE SYSTEMS**
+```
+Unity (C#) · Android Studio · Photoshop · Game Design
+```
+
+**> UMBILICAL CABLE — INFRASTRUCTURE**
+```
+Git · Vercel
+```
+
+---
+
+## // ACTIVE ANGEL CONTACTS
+
+*Current threats being engaged. Status: in progress.*
+
+```
+ANGEL-01 .............. Web Dev      [ ENGAGED     ] — building responsive interfaces
+ANGEL-02 .............. Game Dev     [ ACTIVE LOCK ] — Unity, C#, design loops
+ANGEL-03 .............. Graphic Design [ PURSUING  ] — UI/UX, visual systems
+```
+
+---
+
+## // MAGI PERFORMANCE METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=timtulang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&title_color=ff6600&icon_color=ff6600&text_color=c9d1d9&bg_color=0d0d0d" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtulang&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6600&text_color=c9d1d9&bg_color=0d0d0d" height="155"/>
+
+</div>
+
+---
+
+## // OPEN COMMUNICATION CHANNEL
+
+*Direct line to pilot established. Awaiting transmission.*
+
+```
+CHANNEL 01 — EMAIL     tulangtimothy@gmail.com
+CHANNEL 02 — LINKEDIN  linkedin.com/in/tim-tulang-211a26293
+```
+
+> *Initiating contact protocol. Please stand by.*
+
+---
+
+<div align="center">
+
+```
+[ NERV PERSONNEL FILE — END OF RECORD ]
+[ MAGI SYSTEM CONSENSUS: THIS PILOT IS WORTH WATCHING ]
+```
+
+*Pattern Blue detected. Synchronization rate: rising.*
+
+</div>
