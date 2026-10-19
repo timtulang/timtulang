@@ -31,7 +31,7 @@ Quiet by default. Ships anyway.
 <img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timtulang&color=A9C7E8&line=A9C7E8&point=C8102E&area=true&area_color=A9C7E8&hide_border=true&bg_color=00000000" width="95%" alt="Contribution graph"/>
+  <img src="https://raw.githubusercontent.com/timtulang/timtulang/output/snake-rei.svg" width="95%" alt="Contribution graph"/>
 </div>
 
 <div align="center">
