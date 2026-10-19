@@ -1,0 +1,32 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: 'Courier New', Courier, monospace; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes drift { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.6; } }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+      .a { animation: fadeIn 0.8s 0.3s both; }
+      .b { animation: fadeIn 0.8s 1.1s both; }
+      .c { animation: fadeIn 0.8s 1.9s both; }
+      .cursor { animation: blink 1.1s step-end infinite; }
+      .hex { animation: drift 7s ease-in-out infinite; }
+      .eye { animation: pulse 3.5s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="900" height="130" fill="#070B14"/>
+  <rect x="30" y="10" width="840" height="110" rx="4" fill="#0A111D" stroke="#A9C7E8" stroke-opacity="0.35"/>
+
+  <!-- faint hex lattice -->
+  <g class="hex" fill="none" stroke="#A9C7E8" stroke-width="0.8">
+    <polygon points="760,30 786,45 786,75 760,90 734,75 734,45"/>
+    <polygon points="812,60 838,75 838,105 812,120 786,105 786,75" stroke-opacity="0.6"/>
+    <polygon points="708,60 734,75 734,105 708,120 682,105 682,75" stroke-opacity="0.6"/>
+  </g>
+  <circle class="eye" cx="760" cy="60" r="3.5" fill="#C8102E"/>
+
+  <text class="a" x="54" y="44" font-size="12" fill="#5C6B80">$  echo $STATUS</text>
+  <text class="b" x="54" y="66" font-size="14" fill="#A9C7E8" letter-spacing="1">Pattern Blue. Unit-00. Synchronization nominal.</text>
+  <text class="c" x="54" y="92" font-size="12" fill="#5C6B80">$  exit 0</text>
+  <text class="cursor" x="130" y="92" font-size="12" fill="#C8102E">█</text>
+</svg>

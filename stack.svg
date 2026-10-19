@@ -1,0 +1,77 @@
+<svg width="900" height="325" viewBox="0 0 900 325" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: 'Courier New', Courier, monospace; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+      @keyframes sweep { 0% { transform: translateX(-60px); opacity: 0; } 10% { opacity: 0.5; } 90% { opacity: 0.5; } 100% { transform: translateX(300px); opacity: 0; } }
+      .p1 { animation: fadeIn 0.8s 0.2s both; }
+      .p2 { animation: fadeIn 0.8s 0.7s both; }
+      .p3 { animation: fadeIn 0.8s 1.2s both; }
+      .p4 { animation: fadeIn 0.8s 1.8s both; }
+      .ok { animation: pulse 2.6s ease-in-out infinite; }
+      .sweep { animation: sweep 5s linear infinite; }
+    </style>
+    <clipPath id="c1"><polygon points="30,48 288,48 300,60 300,238 42,238 30,226"/></clipPath>
+    <clipPath id="c2"><polygon points="315,48 573,48 585,60 585,238 327,238 315,226"/></clipPath>
+    <clipPath id="c3"><polygon points="600,48 858,48 870,60 870,238 612,238 600,226"/></clipPath>
+  </defs>
+
+  <rect width="900" height="325" fill="#070B14"/>
+
+  <text x="30" y="30" font-size="11" fill="#A9C7E8" opacity="0.6">MAGI SYSTEM · TECH CONSENSUS</text>
+  <text class="ok" x="870" y="30" font-size="11" text-anchor="end" fill="#C8102E">3 / 3 APPROVED</text>
+
+  <!-- MELCHIOR-1 -->
+  <g class="p1">
+    <polygon points="30,48 288,48 300,60 300,238 42,238 30,226" fill="#0A111D" stroke="#A9C7E8" stroke-opacity="0.5"/>
+    <g clip-path="url(#c1)"><rect class="sweep" x="30" y="48" width="40" height="190" fill="#A9C7E8" opacity="0.08"/></g>
+    <text x="48" y="72" font-size="9" fill="#C8102E">MELCHIOR · 1</text>
+    <text x="48" y="92" font-size="15" font-weight="bold" letter-spacing="2" fill="#E8F1FA">FRONTEND</text>
+    <line x1="48" y1="102" x2="282" y2="102" stroke="#A9C7E8" stroke-opacity="0.3"/>
+    <text x="48" y="124" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> React</text>
+    <text x="48" y="144" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> React Native</text>
+    <text x="48" y="164" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Vite</text>
+    <text x="48" y="184" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> HTML5 · CSS3</text>
+    <text x="48" y="204" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Figma</text>
+    <text class="ok" x="282" y="226" font-size="9" text-anchor="end" fill="#A9C7E8">承認 · APPROVED</text>
+  </g>
+
+  <!-- BALTHASAR-2 -->
+  <g class="p2">
+    <polygon points="315,48 573,48 585,60 585,238 327,238 315,226" fill="#0A111D" stroke="#A9C7E8" stroke-opacity="0.5"/>
+    <g clip-path="url(#c2)"><rect class="sweep" x="315" y="48" width="40" height="190" fill="#A9C7E8" opacity="0.08" style="animation-delay:1.2s"/></g>
+    <text x="333" y="72" font-size="9" fill="#C8102E">BALTHASAR · 2</text>
+    <text x="333" y="92" font-size="15" font-weight="bold" letter-spacing="2" fill="#E8F1FA">BACKEND + DATA</text>
+    <line x1="333" y1="102" x2="567" y2="102" stroke="#A9C7E8" stroke-opacity="0.3"/>
+    <text x="333" y="124" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Supabase</text>
+    <text x="333" y="144" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> PostgreSQL · SQL</text>
+    <text x="333" y="164" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> C#</text>
+    <text x="333" y="184" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Dialogflow</text>
+    <text x="333" y="204" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Vercel</text>
+    <text class="ok" x="567" y="226" font-size="9" text-anchor="end" fill="#A9C7E8" style="animation-delay:0.4s">承認 · APPROVED</text>
+  </g>
+
+  <!-- CASPAR-3 -->
+  <g class="p3">
+    <polygon points="600,48 858,48 870,60 870,238 612,238 600,226" fill="#0A111D" stroke="#A9C7E8" stroke-opacity="0.5"/>
+    <g clip-path="url(#c3)"><rect class="sweep" x="600" y="48" width="40" height="190" fill="#A9C7E8" opacity="0.08" style="animation-delay:2.4s"/></g>
+    <text x="618" y="72" font-size="9" fill="#C8102E">CASPAR · 3</text>
+    <text x="618" y="92" font-size="15" font-weight="bold" letter-spacing="2" fill="#E8F1FA">AI / ML</text>
+    <line x1="618" y1="102" x2="852" y2="102" stroke="#A9C7E8" stroke-opacity="0.3"/>
+    <text x="618" y="124" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Python</text>
+    <text x="618" y="144" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> TensorFlow</text>
+    <text x="618" y="164" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> ONNX</text>
+    <text x="618" y="184" font-size="12" fill="#D5E3F2"><tspan fill="#C8102E">▸</tspan> Jupyter</text>
+    <text class="ok" x="852" y="226" font-size="9" text-anchor="end" fill="#A9C7E8" style="animation-delay:0.8s">承認 · APPROVED</text>
+  </g>
+
+  <!-- Bottom strip -->
+  <g class="p4">
+    <rect x="30" y="252" width="840" height="56" rx="3" fill="#0A111D" stroke="#A9C7E8" stroke-opacity="0.35"/>
+    <text x="48" y="276" font-size="11" fill="#C8102E">LANGUAGES</text>
+    <text x="170" y="276" font-size="12" fill="#D5E3F2">Java · Python · C# · SQL</text>
+    <text x="48" y="297" font-size="11" fill="#C8102E">MOBILE + TOOLS</text>
+    <text x="170" y="297" font-size="12" fill="#D5E3F2">Android SDK · FlutterFlow · Unity · Git · Linux</text>
+  </g>
+</svg>
