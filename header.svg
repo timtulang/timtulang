@@ -62,9 +62,6 @@
 
   <text class="l9" x="50" y="215" font-size="11" fill="#A9C7E8" opacity="0.5">────────────────────────────────────────────────────────────────</text>
 
-  <text class="l9" x="50" y="235" font-size="12" fill="#5C6B80">$  </text>
-  <text class="l9" x="78" y="235" font-size="12" font-style="italic" fill="#A9C7E8">Quiet by default. Ships anyway.</text>
-
   <text class="l9" x="50" y="252" font-size="12" fill="#5C6B80">$  _</text>
   <text class="cursor" x="78" y="252" font-size="12" fill="#C8102E">█</text>
 </svg>
