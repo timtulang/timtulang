@@ -13,12 +13,6 @@
 <img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
-  <img src="about-a.svg" width="100%" alt="Pilot log: Tulang, Timothy John. BS Computer Science, year 3, PLM. Builds things that work, studies how machines learn."/>
-</div>
-
-<img src="divider.svg" width="100%" alt=""/>
-
-<div align="center">
   <img src="stack-v2.svg" width="100%" alt="MAGI tech consensus: Frontend, Backend and Data, AI/ML"/>
 </div>
 
