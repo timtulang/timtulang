@@ -9,19 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/-tim--tulang-A9C7E8?style=flat-square&logo=linkedin&logoColor=0B1A2E)](https://www.linkedin.com/in/tim-tulang-211a26293/)
 
 </div>
-
-<img src="divider.svg" width="100%" alt=""/>
-
-```text
-$ whoami
-tulang_timothy_john
-
-$ cat about.txt
-Third-year Computer Science at PLM.
-I build things, and I study how machines learn.
-Quiet by default. Ships anyway.
-```
-
 <img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
