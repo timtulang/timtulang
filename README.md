@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg?v=3" width="100%" alt="MAGI Terminal — Timothy John Tulang"/>
+  <img src="header-v2.svg" width="100%" alt="MAGI Terminal — Timothy John Tulang"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 <img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
-  <img src="stack.svg" width="100%" alt="MAGI tech consensus: Frontend, Backend and Data, AI/ML"/>
+  <img src="stack-v2.svg" width="100%" alt="MAGI tech consensus: Frontend, Backend and Data, AI/ML"/>
 </div>
 
 <img src="divider.svg" width="100%" alt=""/>
