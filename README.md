@@ -19,13 +19,10 @@
 <img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
-  <!-- Opens a Spotify search for the song; swap in the direct track link if you like -->
   <a href="https://open.spotify.com/search/only%20you%20fern">
     <img src="nowplaying.svg" width="100%" alt="On repeat: Only You by Fern, from the EP Loveless"/>
   </a>
 </div>
-
-<img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/timtulang/timtulang/output/snake-rei.svg" width="95%" alt="Contribution graph"/>
