@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header-v2.svg?v=2" width="100%" alt="MAGI Terminal — Timothy John Tulang"/>
+  <img src="header-v2.svg?v=3" width="100%" alt="MAGI Terminal — Timothy John Tulang"/>
 </div>
 
 <div align="center">
